@@ -1,7 +1,16 @@
 # git_testing_aguapanelos
 
+=======
 
-jjpulido
 _jonna_ - presente.
- jjpulido8
-Io estuve aquí - Yeison
+ 
+>>>>>>> 5226a408a10230c8ceeedaca14cf257b6b1d09b2
+jjpulido8
+
+
+
+
+
+
+
+hola desde la rama jejeje
