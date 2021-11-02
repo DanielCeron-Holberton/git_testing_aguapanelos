@@ -1,6 +1,5 @@
 # git_testing_aguapanelos
-<<<<<<< HEAD
-jjpulido
+
 =======
 
 _jonna_ - presente.
