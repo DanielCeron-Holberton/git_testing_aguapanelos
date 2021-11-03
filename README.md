@@ -2,6 +2,7 @@
 
 
 _jonna_ - presente.
+<<<<<<< HEAD
 
 jjpulido8
 
@@ -14,3 +15,16 @@ yeiso es el mejor
 chris
 
 branchers
+=======
+ jjpulido8
+Io estuve aquí - Yeison
+sensey byakko y padoro
+
+
+
+
+
+
+
+
+hello johannajjpulido
